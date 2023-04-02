@@ -2,7 +2,7 @@
   
 
 - 🔭 I’m currently working on Comparing-AI-Models 
- and Senior Capstone-Project  
+ Multithreaded-Programming-with-Pthreads and Resource-Allocation-using-Banker-s-Algorithm 
   
 
 - 🌱 I’m currently learning React and Microservices  
