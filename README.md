@@ -9,7 +9,7 @@
   <li>🎓 Senior Computer Science student at Texas A&M University</li>
   <li>🌍 Algerian with a diverse educational background (Arabic system & French baccalaureate in economics)</li>
   <li>💼 Co-Op at Siemens as a full-time developer during summer</li>
-  <li>🔭 Currently working on a capstone project involving HTML, CSS, React.js, Express.js, Node.js, and OpenAI API</li>
+  <li>🔭 Currently working on a capstone project involving HTML, CSS, React.js, and GPT-3 API</li>
   <li>🌱 Learning MongoDB to further expand my skillset</li>
   <li>💡 Ask me about anything related to the MERN stack and related technologies</li>
   <li>📫 Feel free to reach out for collaboration or project discussions</li>
