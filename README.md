@@ -1,12 +1,23 @@
-### <div align="center">👋 Hi, I'm Nabil Ferhat Taleb - a passionate CS student & developer! 🚀</div>
-🎓 Senior Computer Science student at Texas A&M University
-🌍 Algerian with a diverse educational background (Arabic system & French baccalaureate in economics)
-💼 Co-Op at Siemens as a full-time developer during summer
-🔭 Currently working on a capstone project involving HTML, CSS, React.js, Express.js, Node.js, and OpenAI API
-🌱 Learning MongoDB to further expand my skillset
-💡 Ask me about anything related to the MERN stack and related technologies
-📫 Feel free to reach out for collaboration or project discussions
-Let's connect and build innovative tech solutions together! 🤝
+<div align="center">
+  <h2>
+    <strong>
+      👋 Hi, I'm Nabil Ferhat Taleb - a passionate CS student & developer! 🚀
+    </strong>
+  </h2>
+</div>
+<ul>
+  <li>🎓 Senior Computer Science student at Texas A&M University</li>
+  <li>🌍 Algerian with a diverse educational background (Arabic system & French baccalaureate in economics)</li>
+  <li>💼 Co-Op at Siemens as a full-time developer during summer</li>
+  <li>🔭 Currently working on a capstone project involving HTML, CSS, React.js, Express.js, Node.js, and OpenAI API</li>
+  <li>🌱 Learning MongoDB to further expand my skillset</li>
+  <li>💡 Ask me about anything related to the MERN stack and related technologies</li>
+  <li>📫 Feel free to reach out for collaboration or project discussions</li>
+</ul>
+<div align="center">
+  <p>Let's connect and build innovative tech solutions together! 🤝</p>
+</div>
+
 <br/>  
 
 
