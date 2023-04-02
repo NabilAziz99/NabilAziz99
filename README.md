@@ -5,7 +5,7 @@
  
   
 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning MangoDB
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
