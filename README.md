@@ -5,7 +5,7 @@
  Multithreaded-Programming-with-Pthreads and Resource-Allocation-using-Banker-s-Algorithm 
   
 
-- 🌱 I’m currently learning React and Microservices  
+- 🌱 I’m currently learning React 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
