@@ -7,7 +7,7 @@
 </div>
 <ul>
   <li>🎓 Senior Computer Science student at Texas A&M University</li>
-  <li>🌍 Algerian with a diverse educational background (Arabic system & French baccalaureate in economics)</li>
+  <li>🌍 Algerian with a unique educational journey: studied in the Algerian program (primary to high school), earned a French baccalaureate in economics, and now pursuing higher education in the US in English.</li>
   <li>💼 Co-Op at Siemens as a full-time developer during summer</li>
   <li>🔭 Currently working on a capstone project involving HTML, CSS, React.js, and GPT-3 API</li>
   <li>🌱 Learning MongoDB to further expand my skillset</li>
