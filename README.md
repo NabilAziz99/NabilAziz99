@@ -1,16 +1,12 @@
-### <div align="center">I'm Nabil Ferhat Taleb, a full-time developer 👨‍💻 working remotely since 2021 🚀</div>  
-  
-
-- 🔭 I’m currently working on Comparing-AI-Models 
- 
-  
-
-- 🌱 I’m currently learning MangoDB
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
+### <div align="center">👋 Hi, I'm Nabil Ferhat Taleb - a passionate CS student & developer! 🚀</div>
+🎓 Senior Computer Science student at Texas A&M University
+🌍 Algerian with a diverse educational background (Arabic system & French baccalaureate in economics)
+💼 Co-Op at Siemens as a full-time developer during summer
+🔭 Currently working on a capstone project involving HTML, CSS, React.js, Express.js, Node.js, and OpenAI API
+🌱 Learning MongoDB to further expand my skillset
+💡 Ask me about anything related to the MERN stack and related technologies
+📫 Feel free to reach out for collaboration or project discussions
+Let's connect and build innovative tech solutions together! 🤝
 <br/>  
 
 
