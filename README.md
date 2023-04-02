@@ -2,7 +2,7 @@
   
 
 - 🔭 I’m currently working on Comparing-AI-Models 
- Multithreaded-Programming-with-Pthreads and Resource-Allocation-using-Banker-s-Algorithm 
+ 
   
 
 - 🌱 I’m currently learning React 
