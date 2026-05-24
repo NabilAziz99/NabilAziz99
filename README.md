@@ -1,11 +1,11 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                       NABIL · GITHUB PROFILE                     -->
+<!--                        AZIZ · GITHUB PROFILE                     -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
 <a href="https://github.com/NabilAziz99">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Nabil%20Ferhat%20Taleb&fontSize=58&fontAlignY=38&fontColor=ffffff&desc=Building%20AI%20agents%20that%20ship%20real%20systems&descAlignY=60&descSize=18&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Aziz%20Ferhat%20Taleb&fontSize=58&fontAlignY=38&fontColor=ffffff&desc=Building%20AI%20agents%20that%20ship%20real%20systems&descAlignY=60&descSize=18&animation=fadeIn" alt="header"/>
 </a>
 
 <a href="https://github.com/NabilAziz99">
@@ -21,12 +21,13 @@
 
 </div>
 
-<br/>
+<!-- animated gradient divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## ╭─ whoami
 
 ```ts
-const nabil = {
+const aziz = {
   role:      "Founding Engineer · ex-Google · ex-Apple",
   building:  "Hierarchical multi-agent systems for code generation",
   stack:     ["Python", "LangGraph", "LangChain", "LangSmith", "Swift", "C++"],
@@ -37,7 +38,7 @@ const nabil = {
 };
 ```
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## ╭─ where I've been
 
@@ -73,7 +74,7 @@ const nabil = {
 </tr>
 </table>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## ╭─ what I'm building
 
@@ -83,40 +84,28 @@ const nabil = {
 
 > **LLM evals that actually mean something.** Precision / recall, set-based scoring, benchmark-driven iteration. If you can't measure it, you can't improve it.
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## ╭─ stack
 
 <div align="center">
 
-**Languages**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,swift,cpp,ts,fastapi,docker,aws,redis,supabase,postgres,git,github,linux,vscode&perline=14" alt="stack"/>
+</a>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<br/><br/>
 
-**Agents & LLMs**
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-
-**Infra**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## ╭─ github by the numbers
 
@@ -129,22 +118,31 @@ const nabil = {
 
 <br/><br/>
 
+<!-- Animated activity graph — live updates with every push -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NabilAziz99&bg_color=0d1117&color=6e8afa&line=6e8afa&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+
+<br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=NabilAziz99&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## ╭─ selected work
+## ╭─ contribution snake
 
-| | |
-|---|---|
-| 📄 **GraphTrafficGPT** | Graph-based multi-agent LLM system. **50.2% token reduction · 19% latency improvement** via parallel dependency-graph execution. *Published research.* |
-| 🤖 **Multi-agent dev platform** | Replit/Lovable-style autonomous full-stack code generation with system-design, PM, and coding agents. Human-in-the-loop via LangGraph. **64% fewer tokens · 2.3× faster edits.** |
-| 🧠 **Context compression pipeline** | Multi-stage summarization middleware keeping long-running agent sessions under 8K tokens without losing fidelity. |
-| 🎯 **VerilogEval saturation** | 100% Pass@1 on NVIDIA's VerilogEval benchmark. Extended evaluation to CVDP across RTL, testbench, assertion, and debugging. |
+<!-- Snake animation generated by .github/workflows/snake.yml every 12h -->
+<div align="center">
 
-<br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NabilAziz99/NabilAziz99/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NabilAziz99/NabilAziz99/output/github-snake.svg"/>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NabilAziz99/NabilAziz99/output/github-snake.svg"/>
+  </picture>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## ╭─ let's connect
 
